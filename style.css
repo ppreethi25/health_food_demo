@@ -265,6 +265,11 @@ section.blue {
 }
 .col-4 p {
     padding: 13px;
+    text-align: center;
+}
+.col-4 h2 {
+    text-align: center;
+    /* margin-left: 15px; */
 }
 .circle1 {
     border-radius: 50%;
